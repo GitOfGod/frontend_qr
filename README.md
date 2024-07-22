@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./qr-screenshot.jpg)
+[Screenshot](./qr-screenshot.jpg)
 
 ### Links
 
 - Solution URL: https://github.com/GitOfGod/frontend_qr
-- Live Site URL: (https://gitofgod.github.io/calculator)
+- Live Site URL: https://gitofgod.github.io/calculator
 
 ## My process
 
@@ -43,5 +43,5 @@ Going forward, I will continue focusing on responsive design in future projects.
 
 ## Author
 
-- GitHub - GitofGod (https://github.com/GitOfGod)
+- GitHub - [GitofGod](https://github.com/GitOfGod)
 - Frontend Mentor - [@GitOfGod](https://www.frontendmentor.io/profile/GitOfGod)
