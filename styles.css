@@ -26,6 +26,7 @@ body {
     background-color: white;
     width: 350px;
     border-radius: 16px;
+    box-shadow: 16px 16px 16px rgba(0,0,0, 0.1);
 }
 
 img {
