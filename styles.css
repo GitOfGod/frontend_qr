@@ -34,6 +34,11 @@ img {
     margin: 1.2rem;
 }
 
+.hero {
+    text-align: center;
+    padding: 0px 30px 24px 30px;
+}
+
 #hero_title {
     font-size: 22px;
     line-height: 120%;
