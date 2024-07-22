@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/GitOfGod/frontend_qr
-- Live Site URL: https://gitofgod.github.io/calculator
+- Live Site URL: https://gitofgod.github.io/frontend_qr
 
 ## My process
 
